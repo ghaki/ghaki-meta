@@ -1,0 +1,23 @@
+= Ghaki Meta - Meta programming helpers
+
+Ghaki Meta is a collection of meta programming helpers.
+
+== Download
+
+The latest version of Ghaki Meta can be found at
+
+* git@github.com:ghaki/ghaki-meta.git
+
+== Installation
+
+The preferred method of installing Ghaki Meta is through its GEM file.
+
+  % [sudo] gem install ghaki-meta-1.0.0.gem
+
+== License
+
+Ghaki Meta is released under the MIT license.
+
+== Support
+
+Contact mailto:gerald@kalafut.org
